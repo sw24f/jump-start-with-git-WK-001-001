@@ -7,3 +7,4 @@ Git is a distributed version control system for tracking changes to files.
 1git status。11111111111111
 - Edited directly on GitHub to learn how to synchronize changes with the local repository.
 Today I learned how to use Git and GitHub, these tools are very useful.
+- Learned how to save changes using git commit.
