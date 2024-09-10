@@ -5,3 +5,4 @@ Git is a distributed version control system for tracking changes to files.
 - 'git add <file>' : adds files to the staging area.
 - 'git commit -m "message"' : commit the file to the local repository.
 1git status。11111111111111
+- Edited directly on GitHub to learn how to synchronize changes with the local repository.
