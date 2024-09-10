@@ -10,3 +10,4 @@ Today I learned how to use Git and GitHub, these tools are very useful.
 - Learned how to save changes using git commit.
 - Encountered some common bugs while practicing.
 - GitHub Basics: GitHub is a web-based platform for hosting files in repositories, tracking changes, and collaborating on projects using Git.
+- Browser Editing: The GitHub.com interface is great for small, simple edits directly in the browser without needing to download the repository.
