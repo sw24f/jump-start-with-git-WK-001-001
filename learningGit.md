@@ -11,3 +11,4 @@ Today I learned how to use Git and GitHub, these tools are very useful.
 - Encountered some common bugs while practicing.
 - GitHub Basics: GitHub is a web-based platform for hosting files in repositories, tracking changes, and collaborating on projects using Git.
 - Browser Editing: The GitHub.com interface is great for small, simple edits directly in the browser without needing to download the repository.
+- Command Line for Control: Using the command line provides the most control and flexibility but requires familiarity with Git commands.
