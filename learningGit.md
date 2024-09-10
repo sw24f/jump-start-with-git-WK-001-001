@@ -15,3 +15,4 @@ Today I learned how to use Git and GitHub, these tools are very useful.
 - Visual Tools: Tools like GitHub Desktop offer a visual interface for Git operations, making it user-friendly without needing to memorize commands.
 - Authentication: Different tools require specific authentication setups; make sure to configure your environment properly to access GitHub repositories.
 - GitHub Basics: GitHub is a web-based platform for hosting files in repositories, tracking changes, and collaborating on projects using Git.
+- Begin with simple changes directly on GitHub.com, and as you gain confidence and skills, progress to using more advanced tools like GitHub Desktop, the command line, or integrated development environments (IDEs) for larger and more complex projects.
