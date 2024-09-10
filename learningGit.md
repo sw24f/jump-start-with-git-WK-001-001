@@ -13,3 +13,4 @@ Today I learned how to use Git and GitHub, these tools are very useful.
 - Browser Editing: The GitHub.com interface is great for small, simple edits directly in the browser without needing to download the repository.
 - Command Line for Control: Using the command line provides the most control and flexibility but requires familiarity with Git commands.
 - Visual Tools: Tools like GitHub Desktop offer a visual interface for Git operations, making it user-friendly without needing to memorize commands.
+- Authentication: Different tools require specific authentication setups; make sure to configure your environment properly to access GitHub repositories.
