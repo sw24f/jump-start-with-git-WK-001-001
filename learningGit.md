@@ -9,3 +9,4 @@ Git is a distributed version control system for tracking changes to files.
 Today I learned how to use Git and GitHub, these tools are very useful.
 - Learned how to save changes using git commit.
 - Encountered some common bugs while practicing.
+- GitHub Basics: GitHub is a web-based platform for hosting files in repositories, tracking changes, and collaborating on projects using Git.
