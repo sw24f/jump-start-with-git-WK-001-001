@@ -1,0 +1,16 @@
+"*.aux" 
+"*.log" 
+"*.synctex.gz" 
+"*.out" 
+"*.bbl" 
+"*.blg" 
+# Ignore auxiliary LaTeX files
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+
+# Ignore generated PDFs in the root, except release files
+!/releases/*.pdf
